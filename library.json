@@ -1,0 +1,12 @@
+{
+  "name": "ConfigCommander",
+  "keywords": "EEPROM, format, read, write, fields",
+  "description": "Functions to save data to EEPROM",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/cristianszwarc/ConfigCommander.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}

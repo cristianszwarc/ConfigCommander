@@ -1,0 +1,5 @@
+ConfigCommander KEYWORD1
+format           KEYWORD2
+read            KEYWORD2
+write          KEYWORD2
+EEPROM       KEYWORD2
