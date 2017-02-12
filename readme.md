@@ -25,7 +25,7 @@ lib_deps =
 #define CONFIG_FUNCTIONS_MAX_LENGTH 8
 #include <ConfigCommander.h>
 
-// define an easier to read constant for each field slot
+// define a constant for each field slot (optional to improve the code readability)
 #define CONFIG_NAME 0 
 #define CONFIG_IP 1
 #define CONFIG_GATEWAY 2
