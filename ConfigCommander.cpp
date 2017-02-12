@@ -1,5 +1,5 @@
 /*
-  ConfigCommander.cpp - Functions to save data to EEPRO.
+  ConfigCommander.cpp - Functions to save data to EEPROM.
   Created by Cristian D. Szwarc, January 2017.
   Released into the public domain.
 */
