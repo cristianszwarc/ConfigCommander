@@ -6,9 +6,7 @@
 #ifndef CONFIG_FUNCTIONS
 #define CONFIG_FUNCTIONS
 
-#ifndef CONFIG_FUNCTIONS_MAX_LENGTH
 #define CONFIG_FUNCTIONS_MAX_LENGTH 10
-#endif
 
 #include <Arduino.h>
 #include <EEPROM.h>

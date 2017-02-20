@@ -21,8 +21,8 @@ lib_deps =
 **Basic use**
 ```cpp
 ..
-// define how many fields we want to store (default def is 10)
-#define CONFIG_FUNCTIONS_MAX_LENGTH 8
+// to define how many fields we want to store modify
+// the line #define CONFIG_FUNCTIONS_MAX_LENGTH 10 in ConfigCommander.h
 #include <ConfigCommander.h>
 
 // define a constant for each field slot (optional to improve the code readability)
